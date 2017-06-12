@@ -1,0 +1,95 @@
+---
+layout: single
+read_time: false
+comments: false
+share: false
+title: 
+permalink: /
+---
+
+
+
+<div>
+<div style="float:left;width:28%">
+<img src="/assets/images/me.png"
+                  border="0">
+</div>
+
+<div style="text-align:center" style="float:left;width:70%"> 
+<font style="font-size: 11pt;" face="Arial"><b>&nbsp;Tao Hu <span
+                  lang="zh-cn">胡涛</span></b></font> <br>
+<font style="font-size: 11pt;" face="Arial">&nbsp;
+                Master of Computer Science</font>  <br>
+<font style="font-size: 11pt;" face="Arial">&nbsp;
+                <a href="http://www.pku.edu.cn" target="_blank">Peking University</a></font>    <br>                 
+
+ <font face="Arial"><font style="font-size: 11pt;"
+                  face="Arial">&nbsp; </font><img src="/assets/images/email.png"
+                  border="0"></font> <br>
+
+<font style="font-size: 11pt;" face="Arial">I'm Hu Tao,currently Master of Computer Science in <a href="http://www.pku.edu.cn" target="_blank">Peking University</a>. I got my Bachelor degree from <a href="http://www.whu.edu.cn" target="_blank">Wuhan University</a>. 
+            My interest includes machine learning,optimization,computer vision.My CV is   <a href="/note/cv.pdf" target="_blank">here</a>.
+            </font><br><br><br><br><br>
+ </div>
+</div>
+ <div class="clearfix"> </div>
+ 
+
+---
+
+
+##  Notes
+
+> <small>
+    Stochastic Method in Optimization(lecture note in Chinese)<br>
+    (<a href="/note/sto.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
+> <small>
+    Numerical Linear Algebra(Lloyd N. Trefethen David Bau,III) Solution<br>
+    (<a href="/note/nla_solution.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
+> <small>
+    Manifold Learning and Sparse Representation Note<br>
+    (<a href="/note/manifold_solution.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
+> <small>
+    No Coding Farmer<br>
+    (<a href="/note/no_coding_farmer.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
+> <small>
+Convex Optimization Note<br>
+(<a href="/note/cvxopt_note.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
+## Course Project
+
+> <small>
+    Gradient Method Technical Report<br>
+    (<a href="/note/gradient_method_technical_report.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
+> <small>
+    Basic Persuit<br>
+    (<a href="/note/bp.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
+> <small>
+    Deep Learning Technical Report<br>
+    (<a href="/note/deep_learning_technical_report.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
+> <small>
+    Algorithms for Big Data Analysis Homework: 
+    <a href="/note/hw1.pdf"  target="_blank" style="color:gray">hw1</a>,
+    <a href="/note/hw2.pdf"  target="_blank" style="color:gray">hw2</a>,
+    <a href="/note/hw3.pdf"  target="_blank" style="color:gray">hw3</a>,
+    <a href="/note/hw4.pdf"  target="_blank" style="color:gray">hw4</a>
+</small>
+
+
+
+
