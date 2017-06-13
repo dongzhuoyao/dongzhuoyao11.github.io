@@ -18,5 +18,5 @@ header:
 
 > <small>
     Stochastic Method in Optimization(lecture note in Chinese)<br>
-    (<a href="/assets/note/sto.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/sto.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
