@@ -17,6 +17,8 @@ header:
 ## Seminar Record
 
 > <small>
-    Stochastic Method in Optimization(lecture note in Chinese)<br>
-    (<a href="/note/sto.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    Training Neural Networks Without Gradients: A Scalable ADMM Approach<br>
+    (<a href="/note/admm_nn.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
+
+
