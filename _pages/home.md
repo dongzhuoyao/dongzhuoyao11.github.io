@@ -88,6 +88,7 @@ Convex Optimization Note<br>
     <a href="/note/hw2.pdf"  target="_blank" style="color:gray">hw2</a>,
     <a href="/note/hw3.pdf"  target="_blank" style="color:gray">hw3</a>,
     <a href="/note/hw4.pdf"  target="_blank" style="color:gray">hw4</a>
+    <a href="/note/final_project.pdf"  target="_blank" style="color:gray">final project</a>
 </small>
 
 
