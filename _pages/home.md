@@ -11,7 +11,7 @@ permalink: /
 
 <div>
 <div style="float:left;width:28%">
-<img src="/assets/images/me.png"
+<img src="/assets/images/avatar.jpg"
                   border="0">
 </div>
 
