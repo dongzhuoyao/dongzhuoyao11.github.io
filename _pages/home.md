@@ -10,12 +10,12 @@ permalink: /
 
 
 <div>
-<div style="float:left;width:28%">
+<div style="float:left;width:38%">
 <img src="/assets/images/avatar.jpg"
                   border="0">
 </div>
 
-<div style="text-align:center" style="float:left;width:70%"> 
+<div style="text-align:center" style="float:left;width:60%"> 
 <font style="font-size: 11pt;" face="Arial"><b>&nbsp;Tao Hu <span
                   lang="zh-cn">胡涛</span></b></font> <br>
 <font style="font-size: 11pt;" face="Arial">&nbsp;
