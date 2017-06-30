@@ -73,6 +73,12 @@ Convex Optimization Note<br>
 </small>
 
 > <small>
+    A Overview About Image Segmentation<br>
+    (<a href="/note/overview_over_image_segmentation_report.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
+
+> <small>
     Basic Persuit<br>
     (<a href="/note/bp.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
