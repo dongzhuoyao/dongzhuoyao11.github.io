@@ -42,6 +42,18 @@ permalink: /
     (<a href="/note/sto.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
 
+
+
+> <small>
+    No Coding Farmer<br>
+    (<a href="/note/no_coding_farmer.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
+> <small>
+My Paper Summary<br>
+(<a href="/note/cvxopt_note.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
 > <small>
     Numerical Linear Algebra(Lloyd N. Trefethen David Bau,III) Solution<br>
     (<a href="/note/nla_solution.pdf"  target="_blank" style="color:gray">.pdf</a>)
@@ -50,16 +62,6 @@ permalink: /
 > <small>
     Manifold Learning and Sparse Representation Note<br>
     (<a href="/note/manifold_solution.pdf"  target="_blank" style="color:gray">.pdf</a>)
-</small>
-
-> <small>
-    No Coding Farmer<br>
-    (<a href="/note/no_coding_farmer.pdf"  target="_blank" style="color:gray">.pdf</a>)
-</small>
-
-> <small>
-Convex Optimization Note<br>
-(<a href="/note/cvxopt_note.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
 
 ## Course Project
