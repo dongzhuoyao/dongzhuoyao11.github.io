@@ -105,6 +105,7 @@ My Paper Summary<br>
 | ICPR | January 5, 2018 |  |  |August 20, 2018 |  Beijing|
 | ECCV | Mar. 2018 |  |  |Sep. 8-14, 2018|Munich, Germany|
 | ACM MM | April 2018 |  |  |Oct. 22-26, 2018|Seoul, Korea|
+| NIPS | May 2018 |  |  |||
 
     
 
