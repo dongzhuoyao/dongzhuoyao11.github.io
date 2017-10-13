@@ -17,8 +17,8 @@ header:
 ## Seminar Record
 
 > <small>
-    2017.6.19<br>
-    Training Neural Networks Without Gradients: A Scalable ADMM Approach<br>
+    2017.10.3<br>
+    Large Kernel Matters<br>
     (<a href="/note/largeKernelMatters.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
 
