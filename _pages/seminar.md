@@ -19,7 +19,15 @@ header:
 > <small>
     2017.6.19<br>
     Training Neural Networks Without Gradients: A Scalable ADMM Approach<br>
+    (<a href="/note/largeKernelMatters.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
+
+> <small>
+    2017.6.19<br>
+    Training Neural Networks Without Gradients: A Scalable ADMM Approach<br>
     (<a href="/note/admm_nn.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
+
 
 
