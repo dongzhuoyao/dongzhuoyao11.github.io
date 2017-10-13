@@ -96,7 +96,7 @@ My Paper Summary<br>
     <a href="/note/final_project.pdf"  target="_blank" style="color:gray">final project</a>
 </small>
 
-## Upcoming Deadline
+## Conference Time 
 
 | Name | Deadline | Rebuttal | Notification | Date | Place |
 | --- | --- | --- | --- | --- | --- |
