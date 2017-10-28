@@ -38,15 +38,13 @@ permalink: /
 ##  Notes
 
 > <small>
-    Stochastic Method in Optimization(lecture note in Chinese)<br>
-    (<a href="/note/sto.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    Paper Summary<br>
+    (<a href="/note/no_coding_farmer.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
 
-
-
 > <small>
-    No Coding Farmer<br>
-    (<a href="/note/no_coding_farmer.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    Stochastic Method in Optimization(lecture note in Chinese)<br>
+    (<a href="/note/sto.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
 
 
