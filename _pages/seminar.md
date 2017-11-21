@@ -16,6 +16,13 @@ header:
 
 ## Seminar Record
 
+
+> <small>
+    2017.11.3<br>
+    Network Compresssion<br>
+    (<a href="/note/compress-network.pdf"  target="_blank" style="color:gray">.pdf</a>)
+</small>
+
 > <small>
     2017.10.3<br>
     Large Kernel Matters<br>
