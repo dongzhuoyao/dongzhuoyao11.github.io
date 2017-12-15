@@ -2,7 +2,9 @@
 main:
   #- title: "Notes"
   #  url: /note/
-  - title: "Seminar"
+  - title: "Project"
+    url: /project/
+      - title: "Seminar"
     url: /seminar/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
