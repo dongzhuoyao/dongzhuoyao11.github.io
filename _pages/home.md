@@ -34,6 +34,17 @@ permalink: /
 
 ---
 
+##  Working on paper
+
+> <small>
+    How Edge influences the image segmentation?
+</small>
+
+> <small>
+   Devils in image segmentation
+</small>
+
+
 
 ##  Notes
 

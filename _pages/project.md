@@ -25,7 +25,7 @@ header:
 
 <div class="one-project" align="center">
 <a href="https://github.com/dongzhuoyao/tensorpack/tree/deeplab/examples/Deeplab" target="_blank" rel="image segmentation" class="one-project">
-<img src="/assets/images/zuerich00.jpg" width="80%">
+<img src="/assets/images/zuerich00.jpg" width="70%">
 </a>
 </div>
 <br>
