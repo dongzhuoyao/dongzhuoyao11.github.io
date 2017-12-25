@@ -36,12 +36,9 @@ permalink: /
 
 ##  Working on paper
 
-> <small>
-    How Edge influences the image segmentation?
-</small>
-
-> <small>
-   Devils in image segmentation
+>  <small>
+    Hard Sample Mining Loss for Human Pose Estimation, submission to ICPR2018.<br>
+    (<a href="/note/pose-estimation.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
 
 
