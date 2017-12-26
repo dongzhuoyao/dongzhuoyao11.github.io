@@ -39,7 +39,13 @@ some <a href="https://github.com/dongzhuoyao/tensorpack/tree/deeplab/examples/De
 * a very good starter for research, all you need modify most is the network structure.
 * reproducible, every experient can produce the same result as the paper indicated.
 
+# Human Pose Estimation
 
+<div class="one-project" align="center">
+<img src="/assets/images/pose.jpg" width="70%">
+</div>
+<br>
+<a href="/note/pose-estimation.pdf"  target="_blank" style="color:gray">related paper</a>, source code is on the way.
 
 <!--
 > <small>
@@ -61,3 +67,5 @@ some <a href="https://github.com/dongzhuoyao/tensorpack/tree/deeplab/examples/De
     (<a href="/note/admm_nn.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
 -->
+
+
