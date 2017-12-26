@@ -34,7 +34,7 @@ permalink: /
 
 ---
 
-##  Working on paper
+##  paper
 
 >  <small>
     Hard Sample Mining Loss for Human Pose Estimation, submission to ICPR2018.<br>
