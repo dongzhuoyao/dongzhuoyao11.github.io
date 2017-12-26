@@ -47,6 +47,14 @@ some <a href="https://github.com/dongzhuoyao/tensorpack/tree/deeplab/examples/De
 <br>
 <a href="/note/pose-estimation.pdf"  target="_blank" style="color:gray">related paper</a>, source code is on the way.
 
+
+# XiaoYouChou: a Blockchain application on charity
+
+<a href="http://www.xiaoyouchou.cn"  target="_blank" style="color:gray">http://www.xiaoyouchou.cn</a>
+
+* a project that make the charity donation as pure as water flow via blockchain technology.
+* it includes server-side(php), web-side(php), wechat-side(javascript).
+
 <!--
 > <small>
     2017.11.3<br>
