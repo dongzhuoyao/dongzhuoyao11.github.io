@@ -41,6 +41,11 @@ permalink: /
     (<a href="/note/pose-estimation.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
 
+> <small>
+    A Overview About Image Segmentation<br>
+    (<a href="/note/overview_over_image_segmentation_report.pdf"  target="_blank" style="color:gray">technical report</a>)
+</small>
+
 
 
 ##  Notes
@@ -63,10 +68,7 @@ permalink: /
     (<a href="/note/gradient_method_technical_report.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
 
-> <small>
-    A Overview About Image Segmentation<br>
-    (<a href="/note/overview_over_image_segmentation_report.pdf"  target="_blank" style="color:gray">.pdf</a>)
-</small>
+
 
 
 > <small>
