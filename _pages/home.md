@@ -47,6 +47,12 @@ permalink: /
 </small>
 
 
+##  Open Source
+
+>  <small>
+    Contributor of 
+    (<a href="https://github.com/ppwwyyxx/tensorpack"  target="_blank" style="color:gray">Tensorpack:A Neural Net Training Interface on TensorFlow</a>)
+</small>
 
 ##  Notes
 
