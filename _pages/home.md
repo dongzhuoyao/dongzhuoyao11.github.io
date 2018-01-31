@@ -56,6 +56,11 @@ permalink: /
     (<a href="https://github.com/ppwwyyxx/tensorpack"  target="_blank" style="color:gray">Tensorpack:A Neural Net Training Interface on TensorFlow</a>)
 </small>
 
+>  <small>
+    Contributor of 
+    (<a href="https://github.com/apache/incubator-mxnet"  target="_blank" style="color:gray">Mxnet</a>)
+</small>
+
 ##  Notes
 
 > <small>
