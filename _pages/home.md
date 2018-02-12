@@ -40,7 +40,7 @@ permalink: /
 
 >  <small>
     Sobel Heuristic Kernel for aerial semantic segmentation, submission to ICIP2018.<br>
-    (<a href="/note/edge-icip18"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/edge-icip18.pdf"  target="_blank" style="color:gray">.pdf</a>)
 </small>
 
 >  <small>
