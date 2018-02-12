@@ -52,7 +52,7 @@ header:
 |<a href="https://2017.icml.cc/Conferences/2018"  target="_blank" style="color:gray">ICML</a>|2.19,2018|  |  |Tuesday July 10 -- Sunday July 15, 2018| Stockholm Sweden |
 |MICCAI|intention to Submit Deadline:23 February 2018,Paper Submission Deadline:02 March 2018|  |  |September 16-20, 2018| Granada Conference Centre |
 | ECCV | March 14 2018 |May 17 - May 24 2018| July 1 2018 |Sep. 8-14, 2018|Munich, Germany|
-| ACM MM | April 2018 |  |  |Oct. 22-26, 2018|Seoul, Korea|
+| ACM MM | April,8 2018;open source:May 20;Workshop Papers:July 8 |  |  |Oct. 22-26, 2018|Seoul, Korea|
 |BMVC|30 April 2018|  | 02 July 2018 |03 - 06 Sept 2018|Northumbria University|
 | NIPS | May 2018 |  |  |||
 |ACCV|5 July 2018 |  |  |||
