@@ -40,23 +40,23 @@ permalink: /
 
 >  <small>
     Sobel Heuristic Kernel for aerial semantic segmentation, submission to ICIP2018.<br>
-    (<a href="/note/edge-icip18.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/edge-icip18.pdf"  target="_blank">.pdf</a>)
 </small>
 
 >  <small>
     Devils In Semantic Segmentation, submission to ICIP2018.<br>
-    (<a href="/note/devil-icip18.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/devil-icip18.pdf"  target="_blank">.pdf</a>)
 </small>
 
 
 >  <small>
     Hard Sample Mining Loss for Human Pose Estimation, submission to ICPR2018.<br>
-    (<a href="/note/pose-estimation.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/pose-estimation.pdf"  target="_blank">.pdf</a>)
 </small>
 
 > <small>
     A Overview About Image Segmentation<br>
-    (<a href="/note/overview_over_image_segmentation_report.pdf"  target="_blank" style="color:gray">technical report</a>)
+    (<a href="/note/overview_over_image_segmentation_report.pdf"  target="_blank">technical report</a>)
 </small>
 
 
@@ -64,24 +64,24 @@ permalink: /
 
 >  <small>
     Contributor of 
-    <a href="https://github.com/ppwwyyxx/tensorpack"  target="_blank" style="color:gray">Tensorpack(A Neural Net Training Interface on TensorFlow)</a>
+    <a href="https://github.com/ppwwyyxx/tensorpack"  target="_blank">Tensorpack(A Neural Net Training Interface on TensorFlow)</a>
 </small>
 
 >  <small>
     Contributor of 
-    <a href="https://github.com/apache/incubator-mxnet"  target="_blank" style="color:gray">Mxnet</a>
+    <a href="https://github.com/apache/incubator-mxnet"  target="_blank" >Mxnet</a>
 </small>
 
 ##  Notes
 
 > <small>
     Paper Summary<br>
-    (<a href="/note/no_coding_farmer.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/no_coding_farmer.pdf"  target="_blank">.pdf</a>)
 </small>
 
 > <small>
     Stochastic Method in Optimization(lecture note in Chinese)<br>
-    (<a href="/note/sto.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/sto.pdf"  target="_blank" >.pdf</a>)
 </small>
 
 
@@ -89,7 +89,7 @@ permalink: /
 
 > <small>
     Gradient Method Technical Report<br>
-    (<a href="/note/gradient_method_technical_report.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/gradient_method_technical_report.pdf"  target="_blank" >.pdf</a>)
 </small>
 
 
@@ -97,21 +97,21 @@ permalink: /
 
 > <small>
     Basic Persuit<br>
-    (<a href="/note/bp.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/bp.pdf"  target="_blank" >.pdf</a>)
 </small>
 
 > <small>
     Deep Learning Technical Report<br>
-    (<a href="/note/deep_learning_technical_report.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/deep_learning_technical_report.pdf"  target="_blank" >.pdf</a>)
 </small>
 
 > <small>
     Algorithms for Big Data Analysis Homework: 
-    <a href="/note/hw1.pdf"  target="_blank" style="color:gray">hw1</a>,
-    <a href="/note/hw2.pdf"  target="_blank" style="color:gray">hw2</a>,
-    <a href="/note/hw3.pdf"  target="_blank" style="color:gray">hw3</a>,
-    <a href="/note/hw4.pdf"  target="_blank" style="color:gray">hw4</a>,
-    <a href="/note/final_project.pdf"  target="_blank" style="color:gray">final project</a>
+    <a href="/note/hw1.pdf"  target="_blank" >hw1</a>,
+    <a href="/note/hw2.pdf"  target="_blank" >hw2</a>,
+    <a href="/note/hw3.pdf"  target="_blank" >hw3</a>,
+    <a href="/note/hw4.pdf"  target="_blank" >hw4</a>,
+    <a href="/note/final_project.pdf"  target="_blank" >final project</a>
 </small>
 
 
