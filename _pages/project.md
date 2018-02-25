@@ -45,7 +45,7 @@ some <a href="https://github.com/dongzhuoyao/tensorpack/tree/deeplab/examples/De
 <img src="/assets/images/pose.jpg" width="70%">
 </div>
 <br>
-<a href="/note/pose-estimation.pdf"  target="_blank" style="color:gray">related paper</a>, source code is on the way.
+<a href="/note/pose-estimation.pdf"  target="_blank">related paper</a>, <a href="https://github.com/dongzhuoyao/tensorpack/tree/deeplab/examples/Hourglass"  target="_blank">code</a>
 
 
 # XiaoYouChou: a Blockchain application on charity
