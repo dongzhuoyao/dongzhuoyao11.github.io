@@ -37,7 +37,7 @@ some <a href="https://github.com/dongzhuoyao/tensorpack/tree/deeplab/examples/De
 <a href="https://github.com/dongzhuoyao/mxnetgo" target="_blank">mxnetgo</a>: a simple scaffold of MXNet, easy to customize, extremely boosting your research. 
 
 * a very good starter for research, all you need modify most is the network structure.
-* reproducible, every experient can produce the same result as the paper indicated.
+* reproducible, every experiment can produce the same result as the paper indicated.
 
 # Human Pose Estimation
 
