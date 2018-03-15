@@ -39,6 +39,11 @@ permalink: /
 ##  paper
 
 >  <small>
+    Dense In Dense: Training Segmentation from Scratch, submission to ECCV2018.<br>
+    (<a href="/note/scratch-eccv18.pdf"  target="_blank">.pdf</a>)
+</small>
+
+>  <small>
     Sobel Heuristic Kernel for aerial semantic segmentation, submission to ICIP2018.<br>
     (<a href="/note/edge-icip18.pdf"  target="_blank">.pdf</a>)
 </small>
