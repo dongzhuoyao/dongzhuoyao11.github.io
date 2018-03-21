@@ -57,7 +57,7 @@ header:
 |NIPS| May,18  2018 |  |  |||
 |<a href="http://3dv18.uniud.it/"  target="_blank">3DV</a>
 | May,25  2018 |  |  |||
-|WACV|Jun 29, 2018(first round)|  |  |||
+|WACV|Jun 29, 2018(first round);Sep 21, 2018(second round)|  |  |||
 |ACCV|5 July 2018 |  |  |||
 | AAAI | September 2018 |  |  |||
 |WACV|Sep 21, 2018(second round)|  |  |||
