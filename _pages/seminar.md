@@ -51,12 +51,12 @@ header:
 |<a href="https://www.ijcai-18.org/important-dates/"  target="_blank" >IJCAI</a> |Jan 31, 2018|  |  April 16, 2018 |July 13-19 2018|  Stockholm, Sweden|
 |<a href="https://2017.icml.cc/Conferences/2018"  target="_blank">ICML</a>|2.19,2018|  |  |Tuesday July 10 -- Sunday July 15, 2018| Stockholm Sweden |
 |MICCAI|intention to Submit Deadline:23 February 2018,Paper Submission Deadline:02 March 2018|  |  |September 16-20, 2018| Granada Conference Centre |
+|UAI|March 9th, 2018|  |  |||
 | ECCV | March 14 2018 |May 17 - May 24 2018| July 1 2018 |Sep. 8-14, 2018|Munich, Germany|
 | ACM MM | April,8 2018;open source:May 20;Workshop Papers:July 8 |  |  |Oct. 22-26, 2018|Seoul, Korea|
 |BMVC|30 April 2018|  | 02 July 2018 |03 - 06 Sept 2018|Northumbria University|
 |NIPS| May,18  2018 |  |  |||
-|<a href="http://3dv18.uniud.it/"  target="_blank">3DV</a>
-| May,25  2018 |  |  |||
+|<a href="http://3dv18.uniud.it/"  target="_blank">3DV</a>| May,25  2018 |  |  ||
 |WACV|Jun 29, 2018(first round);Sep 21, 2018(second round)|  |  |||
 |ACCV|5 July 2018 |  |  |||
 | AAAI | September 2018 |  |  |||
