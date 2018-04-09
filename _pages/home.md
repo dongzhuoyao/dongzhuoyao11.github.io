@@ -38,6 +38,13 @@ permalink: /
 
 ##  paper
 
+
+>  <small>
+    Attention-based Multi-Context Guiding for  Few-Shot Semantic Segmentation, submission to ACM-MM2018.<br>
+    (<a href="/note/few-shot-seg.pdf
+"  target="_blank">.pdf</a>)
+</small>
+
 >  <small>
     Dense In Dense: Training Segmentation from Scratch, submission to ECCV2018.<br>
     (<a href="/note/scratch-eccv18.pdf"  target="_blank">.pdf</a>)
