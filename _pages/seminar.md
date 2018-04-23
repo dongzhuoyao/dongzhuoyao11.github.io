@@ -61,7 +61,7 @@ header:
 |<a href="http://3dv18.uniud.it/"  target="_blank">3DV</a>| May,25  2018 |  |  ||
 |WACV|Jun 29, 2018(first round);Sep 21, 2018(second round)|  |  |||
 |ACCV|5 July 2018 |  |  |||
-| AAAI | September 2018 |  |  |||
+| AAAI | September 5,(abstract due at Sep,1) 2018 |  |  |||
 |WACV|Sep 21, 2018(second round)|  |  |||
 | ICASSP | October 2018 |  |  |||
 

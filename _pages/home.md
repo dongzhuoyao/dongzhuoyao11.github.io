@@ -23,7 +23,10 @@ permalink: /
 <font style="font-size: 11pt;" face="Arial">&nbsp;
                 <a href="http://www.pku.edu.cn" target="_blank">Peking University</a></font>    <br>                 
             
-            <font style="font-size: 11pt;" face="Arial">I'm Tao Hu, working on Master’s degree of Computer Science in <a href="http://www.pku.edu.cn" target="_blank">Peking University</a>. I have got my Bachelor degree from <a href="http://www.whu.edu.cn" target="_blank">Wuhan University</a>. My interests include machine learning, optimization,sparse coding, network compression and computer vision,etc. My cv is <a href="/note/cv.pdf" target="_blank">here</a>. I am looking for a PHD position. If you are interested, please contact me.
+            <font style="font-size: 11pt;" face="Arial">I'm Tao Hu, working on Master’s degree of Computer Science in <a href="http://www.pku.edu.cn" target="_blank">Peking University</a>. I have got my Bachelor degree from <a href="http://www.whu.edu.cn" target="_blank">Wuhan University</a>. My interests include machine learning, optimization, sparse coding, network compression and computer vision,etc. 
+            <!--
+             My cv is <a href="/note/cv.pdf" target="_blank">here</a>. I am looking for a PHD position. If you are interested, please contact me.
+             -->
             </font>
             
             <br><br><br><br><br>
