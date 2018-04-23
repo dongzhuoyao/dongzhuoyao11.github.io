@@ -41,7 +41,6 @@ header:
 
 | Name | Deadline | Rebuttal | Notification | Date | Place |
 | --- | --- | --- | --- | --- | --- |
-|AAAI|29 September 2017 |  | November 9, 2017 |2-7 Feb 2018| Hilton New Orleans Riverside, New Orleans, Lousiana, USA|
 |AISTATS|13 October 2017 |  | December 22, 2017 |9 April 2018|Playa Blanca, Lanzarote  |
 |ICLR|October 27th, 2017|  |  ||  |
 | CVPR |  Nov. 15, 2017(Nov. 8, 2017 Abstract due)|  | Feb. 28, 2018 | June 18-23, 2018 | Salt Lake City, Utah, USA |
@@ -61,14 +60,13 @@ header:
 |<a href="http://3dv18.uniud.it/"  target="_blank">3DV</a>| May,25  2018 |  |  ||
 |WACV|Jun 29, 2018(first round);Sep 21, 2018(second round)|  |  |||
 |ACCV|5 July 2018 |  |  |||
-| AAAI | September 5,(abstract due at Sep,1) 2018 |  |  |||
+| <a href="https://aaai.org/Conferences/AAAI-19/aaai19call/#"  target="_blank">AAAI</a> | September 5,(abstract due at Sep,1) 2018 |  |  |||
 |WACV|Sep 21, 2018(second round)|  |  |||
 | ICASSP | October 2018 |  |  |||
 
 ## Journal
 
 IJCV, IUCV,
-
 
 
 ## Workshop
