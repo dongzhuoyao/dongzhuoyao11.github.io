@@ -87,6 +87,7 @@ permalink: /
     <a href="https://github.com/apache/incubator-mxnet"  target="_blank" >Mxnet</a>
 </small>
 
+<!--
 ##  Notes
 
 > <small>
@@ -128,6 +129,7 @@ permalink: /
     <a href="/note/hw4.pdf"  target="_blank" >hw4</a>,
     <a href="/note/final_project.pdf"  target="_blank" >final project</a>
 </small>
+-->
 
 
 
