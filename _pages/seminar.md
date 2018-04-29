@@ -48,7 +48,7 @@ header:
 |MICCAI|intention to Submit Deadline:23 February 2018,Paper Submission Deadline:02 March 2018|  |  |September 16-20, 2018| Granada Conference Centre |
 |UAI|March 9th, 2018|  |  |||
 | ECCV | March 14 2018 |May 17 - May 24 2018| July 1 2018 |Sep. 8-14, 2018|Munich, Germany|
-| ACM MM | April,8 2018;open source:May 20;Workshop Papers:July 8 |  |  |Oct. 22-26, 2018|Seoul, Korea|
+| ACM MM | April,8 2018;open source:May 20;Workshop Papers:July 8 |no-rebuttal  | 1 July 2018 |Oct. 22-26, 2018|Seoul, Korea|
 |ECML|12 April 2018|  |  |||
 |BMVC|30 April 2018|  | 02 July 2018 |03 - 06 Sept 2018|Northumbria University|
 |<a href="http://www.acml-conf.org/2018/"  target="_blank">ACML</a>| August 1, 2018 |  |  |||
