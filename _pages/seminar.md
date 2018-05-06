@@ -20,20 +20,20 @@ header:
 > <small>
     2017.11.3<br>
     Network Compresssion<br>
-    (<a href="/note/compress-network.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/compress-network.pdf"  target="_blank">.pdf</a>)
 </small>
 
 > <small>
     2017.10.3<br>
     Large Kernel Matters<br>
-    (<a href="/note/largeKernelMatters.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/largeKernelMatters.pdf"  target="_blank">.pdf</a>)
 </small>
 
 
 > <small>
     2017.6.19<br>
     Training Neural Networks Without Gradients: A Scalable ADMM Approach<br>
-    (<a href="/note/admm_nn.pdf"  target="_blank" style="color:gray">.pdf</a>)
+    (<a href="/note/admm_nn.pdf"  target="_blank">.pdf</a>)
 </small>
 
 
