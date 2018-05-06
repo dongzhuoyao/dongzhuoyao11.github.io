@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Tao Hu"
+title                    : "HU Tao"
 title_separator          : "-"
-name                     : "Tao Hu"
-description              : "Tao Hu"
+name                     : "HU Tao"
+description              : "HU Tao"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -244,3 +244,4 @@ defaults:
       comments: true
       share: true
       related: true
+
