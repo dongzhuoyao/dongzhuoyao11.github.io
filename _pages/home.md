@@ -54,24 +54,24 @@ permalink: /
 </small>
 
 >  <small>
-    Sobel Heuristic Kernel for aerial semantic segmentation, submission to ICIP2018.<br>
+    Sobel Heuristic Kernel for aerial semantic segmentation, Technical Report.<br>
     (<a href="/note/edge-icip18.pdf"  target="_blank">.pdf</a>)
 </small>
 
 >  <small>
-    Devils In Semantic Segmentation, submission to ICIP2018.<br>
+    Devils In Semantic Segmentation, Technical Report.<br>
     (<a href="/note/devil-icip18.pdf"  target="_blank">.pdf</a>)
 </small>
 
 
 >  <small>
-    Hard Sample Mining Loss for Human Pose Estimation, submission to ICPR2018.<br>
+    Hard Sample Mining Loss for Human Pose Estimation, Technical Report<br>
     (<a href="/note/pose-estimation.pdf"  target="_blank">.pdf</a>)
 </small>
 
 > <small>
     A Overview About Image Segmentation<br>
-    (<a href="/note/overview_over_image_segmentation_report.pdf"  target="_blank">technical report</a>)
+    (<a href="/note/overview_over_image_segmentation_report.pdf"  target="_blank">Technical Report</a>)
 </small>
 
 
