@@ -59,7 +59,6 @@ header:
 |WACV|Jun 29, 2018(first round);Sep 21, 2018(second round)|  |  |||
 |ACCV|5 July 2018 |  |  |||
 | <a href="https://aaai.org/Conferences/AAAI-19/aaai19call/#"  target="_blank">AAAI</a> | September 5,(abstract due at Sep,1) 2018 |  |  |||
-|WACV|Sep 21, 2018(second round)|  |  |||
 | ICASSP | October 2018 |  |  |||
 |AISTATS|13 October 2017 |  | December 22, 2017 |9 April 2018|Playa Blanca, Lanzarote  |
 |ICLR|October 27th, 2017|  |  ||  |
