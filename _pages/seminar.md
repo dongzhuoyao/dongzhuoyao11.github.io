@@ -60,9 +60,9 @@ header:
 |THCV|June 29, 2018|  |  |||
 |WACV|Jun 29, 2018(first round);Sep 21, 2018(second round)|  |  |||
 |ACCV|5 July 2018 |  |  |||
-| <a href="https://aaai.org/Conferences/AAAI-19/aaai19call/#"  target="_blank">AAAI</a> | September 5,(abstract due at Sep,1) 2018 |  |  |||
-| ICASSP | October 2018 |  |  |||
-|AISTATS|13 October 2017 |  | December 22, 2017 |9 April 2018|Playa Blanca, Lanzarote  |
+| <a href="https://aaai.org/Conferences/AAAI-19/aaai19call/#"  target="_blank">AAAI</a> | September 5,(abstract due at Sep,1) 2018 | October 11–14 | November 1 |||
+| ICASSP | October 2018 |October 29, 2018  |  |November 22, 2018|12 - 17 May, 2019 · Brighton, UK|
+|AISTATS|13 October 2017 |  | December 22, 2017 |16 April 2019|Naha, Okinawa, Japan  |
 |ICLR|October 27th, 2017|  |  ||  |
 | CVPR |  Nov. 15, 2017(Nov. 8, 2017 Abstract due)|  | Feb. 28, 2018 | June 18-23, 2018 | Salt Lake City, Utah, USA |
 | ICME |  December 01, 2017|  | March 12, 2018 | July 23-27, 2018 | San Diego, USA|
