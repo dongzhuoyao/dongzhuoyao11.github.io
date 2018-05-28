@@ -60,7 +60,6 @@ header:
 |THCV|June 1, 2018|  |  |||
 |THCV|June 29, 2018|  |  |||
 |WACV1|Jun 29, 2018(first round)|  |  August 31,2018|||
-
 |ICRA|Sep 15, 2018|  | |||
 |WACV2|Sep 21, 2018(second round)|  |  Nov 05,2018|||
 |ACCV|5 July 2018 | 1-7 September |  21 September|||
