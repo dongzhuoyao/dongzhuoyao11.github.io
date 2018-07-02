@@ -13,7 +13,7 @@ header:
   caption: "Photo: Sisi"
 ---
 
-
+<!--
 ## Seminar Record
 
 
@@ -35,7 +35,7 @@ header:
     Training Neural Networks Without Gradients: A Scalable ADMM Approach<br>
     (<a href="/note/admm_nn.pdf"  target="_blank">.pdf</a>)
 </small>
-
+-->
 
 ## Conference Time 
 
