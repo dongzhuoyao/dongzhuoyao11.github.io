@@ -43,20 +43,22 @@ permalink: /
 ##  paper
 
 
+
+
 >  <small>
-    Attention-based Multi-Context Guiding for  Few-Shot Semantic Segmentation, submission to ACM-MM2018.<br>
+    Sobel Heuristic Kernel for aerial semantic segmentation, ICIP2018.<br>
+    (<a href="/note/edge-icip18.pdf"  target="_blank">.pdf</a>)
+</small>
+
+>  <small>
+    Attention-based Multi-Context Guiding for  Few-Shot Semantic Segmentation<br>
     (<a href="/note/few-shot-seg.pdf
 "  target="_blank">.pdf</a>)
 </small>
 
 >  <small>
-    Dense In Dense: Training Segmentation from Scratch, submission to ECCV2018.<br>
+    Dense In Dense: Training Segmentation from Scratch<br>
     (<a href="/note/scratch-eccv18.pdf"  target="_blank">.pdf</a>)
-</small>
-
->  <small>
-    Sobel Heuristic Kernel for aerial semantic segmentation, ICIP2018.<br>
-    (<a href="/note/edge-icip18.pdf"  target="_blank">.pdf</a>)
 </small>
 
 >  <small>
@@ -75,7 +77,7 @@ permalink: /
     (<a href="/note/overview_over_image_segmentation_report.pdf"  target="_blank">Technical Report</a>)
 </small>
 
-
+<!--
 ##  Open Source
 
 >  <small>
@@ -88,7 +90,7 @@ permalink: /
     <a href="https://github.com/apache/incubator-mxnet"  target="_blank" >Mxnet</a>
 </small>
 
-<!--
+
 ##  Notes
 
 > <small>

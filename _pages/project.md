@@ -19,6 +19,7 @@ header:
 }
 </style>
 
+<!--
 # Image Segmentation
 
 
@@ -47,7 +48,7 @@ some <a href="https://github.com/dongzhuoyao/tensorpack/tree/deeplab/examples/De
 <br>
 <a href="/note/pose-estimation.pdf"  target="_blank">related paper</a>, <a href="https://github.com/dongzhuoyao/tensorpack/tree/deeplab/examples/Hourglass"  target="_blank">code</a>
 
-<!--
+
 # XiaoYouChou: a Blockchain application on charity
 
 <a href="http://www.xiaoyouchou.cn"  target="_blank">http://www.xiaoyouchou.cn</a>

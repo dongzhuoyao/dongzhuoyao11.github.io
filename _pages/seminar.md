@@ -64,8 +64,8 @@ header:
 |WACV2|Sep 21, 2018(second round)|  |  Nov 05,2018|||
 |ACCV|5 July 2018 | 1-7 September |  21 September|||
 | <a href="https://aaai.org/Conferences/AAAI-19/aaai19call/#"  target="_blank">AAAI</a> | September 5,(abstract due at Sep,1) 2018 | October 11–14 | November 1 |||
-| ICASSP | October 2018 |October 29, 2018  |  |November 22, 2018|12 - 17 May, 2019 · Brighton, UK|
-|AISTATS|13 October 2017 |  | December 22, 2017 |16 April 2019|Naha, Okinawa, Japan  |
+| ICASSP | October 29, 2018|October 29, 2018  |  |February 1, 2019|12 - 17 May, 2019 · Brighton, UK|
+|AISTATS|4 October 2018  | November 20, 2018 | December 24, 2018 |16 April 2019|Naha, Okinawa, Japan  |
 |ICLR|October 27th, 2017|  |  ||  |
 | CVPR |  Nov. 15, 2017(Nov. 8, 2017 Abstract due)|  | Feb. 28, 2018 | June 18-23, 2018 | Salt Lake City, Utah, USA |
 | ICME |  December 01, 2017|  | March 12, 2018 | July 23-27, 2018 | San Diego, USA|
