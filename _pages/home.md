@@ -77,6 +77,13 @@ permalink: /
     (<a href="/note/overview_over_image_segmentation_report.pdf"  target="_blank">Technical Report</a>)
 </small>
 
+> <small>
+    Incremental Segmentation on Private Data without Catastrophic Forgetting<br>
+    (<a href="/note/incremental-seg-privacy.pdf"  target="_blank">Technical Report</a>)
+</small>
+
+
+
 <!--
 ##  Open Source
 
