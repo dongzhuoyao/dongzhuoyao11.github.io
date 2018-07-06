@@ -92,5 +92,5 @@ IJCV, IUCV,
 
 #### Pacific Daylight Time
 
-<div class="thetimenow-embeddable-clock" data-type="clock" data-font-color="#000000" data-border-color="#0057b3" data-background-color="#ffffff" data-font-size="60" data-location-type="timezone" data-location-id="115" ></div> 
+<div class="thetimenow-embeddable-clock" data-type="clock" data-font-color="#000000" data-border-color="#000000" data-background-color="#ffffff" data-font-size="60" > <a href="http://www.thetimenow.com/" rel="nofollow" target="_blank">© The Time Now</a> </div> 
 <script type="text/javascript" src="http://www.thetimenow.com/ttn-embed.min.js"></script>
