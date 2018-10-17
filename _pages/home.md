@@ -43,23 +43,27 @@ permalink: /
 ##  paper
 
 
-
+>  <small>
+    Dense In Dense: Training Segmentation from Scratch, ACCV2018<br>
+    (<a href="/note/scratch-eccv18.pdf"  target="_blank">.pdf</a>)
+</small>
 
 >  <small>
     Sobel Heuristic Kernel for aerial semantic segmentation, ICIP2018.<br>
     (<a href="/note/edge-icip18.pdf"  target="_blank">.pdf</a>)
 </small>
 
+> <small>
+    Incremental Segmentation on Private Data without Catastrophic Forgetting, ACCV submission<br>
+    (<a href="/note/incremental-seg-privacy.pdf"  target="_blank">.pdf</a>)
+</small>
+
 >  <small>
-    Attention-based Multi-Context Guiding for  Few-Shot Semantic Segmentation<br>
+    Attention-based Multi-Context Guiding for  Few-Shot Semantic Segmentation, AAAI submission<br>
     (<a href="/note/few-shot-seg.pdf
 "  target="_blank">.pdf</a>)
 </small>
 
->  <small>
-    Dense In Dense: Training Segmentation from Scratch<br>
-    (<a href="/note/scratch-eccv18.pdf"  target="_blank">.pdf</a>)
-</small>
 
 >  <small>
     Devils In Semantic Segmentation, Technical Report.<br>
@@ -77,10 +81,6 @@ permalink: /
     (<a href="/note/overview_over_image_segmentation_report.pdf"  target="_blank">Technical Report</a>)
 </small>
 
-> <small>
-    Incremental Segmentation on Private Data without Catastrophic Forgetting<br>
-    (<a href="/note/incremental-seg-privacy.pdf"  target="_blank">Technical Report</a>)
-</small>
 
 
 
