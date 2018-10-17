@@ -41,34 +41,30 @@ header:
 
 | Name | Deadline | Rebuttal | Notification | Date | Place |
 | --- | --- | --- | --- | --- | --- |
-| <a href="http://www.icpr2018.org/"  target="_blank" >ICPR</a> | January 5, 2018 |  | April 5, 2018 |August 20-24, 2018 |  Beijing|
-| <a href="https://2018.ieeeicip.org/ImportantDates.asp"  target="_blank" >ICIP</a> | February 7, 2018 |  | April 30, 2018 | October 7-10, 2018	 |  Athens, Greece|
-| <a href="http://sigir.org/sigir2018/"  target="_blank" >SIGIR</a>|January 29, 2018|  |  |||
-|<a href="https://www.ijcai-18.org/important-dates/"  target="_blank" >IJCAI</a> |Jan 31, 2018|  |  April 16, 2018 |July 13-19 2018|  Stockholm, Sweden|
-|<a href="http://www.icmr2018.org/"  target="_blank" >ICMR</a>|January 30, 2018|  |  |||
-|<a href="http://www.acml-conf.org/2018/"  target="_blank">ACML</a>| 2.2, 2018 |  |  |||
-|<a href="https://2017.icml.cc/Conferences/2018"  target="_blank">ICML</a>|2.19,2018|  |  |Tuesday July 10 -- Sunday July 15, 2018| Stockholm Sweden|
-|IROS|Mar 1, 2019|  | |||
-|MICCAI|intention to Submit Deadline:23 February 2018,Paper Submission Deadline:02 March 2018|  |  |September 16-20, 2018| Granada Conference Centre|
-|UAI|March 9th, 2018|  | June 30, 2019 ||Macau,China|
+| <a href="http://2019.ieeeicip.org/index.php?action=page3&id=1"  target="_blank" >ICIP19</a> | February 7, 2018 |  | April 30, 2019 | Sep 22-25, 2019 |  Taiwan|
+| <a href="http://sigir.org/sigir2019/"  target="_blank" >SIGIR19</a>|January 29, 2018|  |  |July,21-25,2019|Paris|
+|<a href="https://www.ijcai-18.org/important-dates/"  target="_blank" >IJCAI19</a> |February 25, 2019| April 13-18, 2019 | May 9, 2019 |August 10-16, 2019|Macao|
+|<a href="http://www.icmr2018.org/"  target="_blank" >ICMR19</a>|January 21, 2019|  | March 31, 2019 |June 10-13 2019|Ottawa, Canada|
+|<a href="http://www.acml-conf.org/2019/"  target="_blank">ACML 19</a>| |  |  ||Nagoya, Japan|
+|<a href="https://icml.cc/Conferences/2019/CallForPapers"  target="_blank">ICML19</a>|Jan. 23, 2019, 3:59 p.m. pacific|  |  |June 10-15|Long Beach, CA, USA|
+|UAI19||  | |||
+|ICCV19||  | |Oct 27-Nov 3|Seoul, Korea|
 | ECCV | March 14 2018 |May 17 - May 24 2018| July 1 2018 |Sep. 8-14, 2018|Munich, Germany|
 | ACM MM | April,8 2018;open source:May 20;Workshop Papers:July 8 |no-rebuttal  | 1 July 2018 |Oct. 22-26, 2018|Seoul, Korea|
-|ECML|12 April 2018|  |  |||
-|BMVC|30 April 2018|  | 02 July 2018 |03 - 06 Sept 2018|Northumbria University|
+|ECML18|12 April 2018|  |  |||
+|BMVC18|30 April 2018|  | 02 July 2018 |03 - 06 Sept 2018|Northumbria University|
 |NIPS| May,18  2018 |  |  |||
 |<a href="http://3dv18.uniud.it/"  target="_blank">3DV</a>| May,25  2018 |  |  ||
-|THCV|June 1, 2018|  |  |||
-|THCV|June 29, 2018|  |  |||
 |WACV1|Jun 29, 2018(first round)|  |  August 31,2018|||
 |ICRA|Sep 15, 2018|  | |||
 |WACV2|Sep 21, 2018(second round)|  |  Nov 05,2018|||
-|ACCV|5 July 2018 | 1-7 September |  21 September|||
-| <a href="https://aaai.org/Conferences/AAAI-19/aaai19call/#"  target="_blank">AAAI</a> | September 5,(abstract due at Sep,1) 2018 | October 11–14 | November 1 |||
-| ICASSP | October 29, 2018|October 29, 2018  |  |February 1, 2019|12 - 17 May, 2019 · Brighton, UK|
+|ACCV18|5 July 2018 | 1-7 September |  21 September|||
+| <a href="https://aaai.org/Conferences/AAAI-19/aaai19call/#"  target="_blank">AAAI19</a> | September 5,(abstract due at Sep,1) 2018 | October 11–14 | November 1 |||
+| ICASSP19 | October 29, 2018|October 29, 2018  |  |February 1, 2019|12 - 17 May, 2019 · Brighton, UK|
 |AISTATS|4 October 2018  | November 20, 2018 | December 24, 2018 |16 April 2019|Naha, Okinawa, Japan  |
-|ICLR|October 27th, 2017|  |  ||  |
-| CVPR |  Nov. 15, 2017(Nov. 8, 2017 Abstract due)|  | Feb. 28, 2018 | June 18-23, 2018 | Salt Lake City, Utah, USA |
-| ICME |  December 01, 2017|  | March 12, 2018 | July 23-27, 2018 | San Diego, USA|
+|ICLR19||  |  ||  |
+| CVPR19 |  November 16, 2018 [11:59 p.m. Pacific Standard Time]| 	February 1, 2019 [Pacific Standard Time] | March 2, 2019 [Pacific Standard Time]| June 16-21,2019 | Long Beach, CA|
+| ICME19 |  December 03, 2018|  February 25, 2019| March 11, 2019 | July 8-12, 2019 | Shanghai|
 
 ## Journal
 
@@ -94,3 +90,5 @@ IJCV, IUCV,
 
 <div class="thetimenow-embeddable-clock" data-type="clock" data-font-color="#000000" data-border-color="#000000" data-background-color="#ffffff" data-font-size="60" > <a href="http://www.thetimenow.com/" rel="nofollow" target="_blank">© The Time Now</a> </div> 
 <script type="text/javascript" src="http://www.thetimenow.com/ttn-embed.min.js"></script>
+
+
