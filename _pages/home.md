@@ -17,11 +17,7 @@ permalink: /
 
 <div style="text-align:center" style="float:left;width:60%"> 
 <font style="font-size: 11pt;" face="Arial"><b>&nbsp;HU Tao <span
-                  lang="zh-cn">胡涛</span></b></font> <br>
-<font style="font-size: 11pt;" face="Arial">&nbsp;
-                Master of Computer Science</font>  <br>
-<font style="font-size: 11pt;" face="Arial">&nbsp;
-                <a href="http://www.pku.edu.cn" target="_blank">Peking University</a></font>    <br>                 
+                  lang="zh-cn">胡涛</span></b></font><br>                 
             
             <font style="font-size: 11pt;" face="Arial">I'm current a PhD in University of Amsterdam, I earned my Master’s degree of Computer Science in <a href="http://www.pku.edu.cn" target="_blank">Peking University</a>, and my Bachelor degree from <a href="http://www.whu.edu.cn" target="_blank">Wuhan University</a>. My interests include machine learning, optimization and dense pixel tasks in computer vision,etc. 
             <!--
