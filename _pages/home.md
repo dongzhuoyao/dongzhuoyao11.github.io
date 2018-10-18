@@ -50,6 +50,7 @@ permalink: /
     (<a href="/note/edge-icip18.pdf"  target="_blank">.pdf</a>)
 </small>
 
+<!--
 > <small>
     Incremental Segmentation on Private Data without Catastrophic Forgetting, ACCV submission<br>
     (<a href="/note/incremental-seg-privacy.pdf"  target="_blank">.pdf</a>)
@@ -60,6 +61,7 @@ permalink: /
     (<a href="/note/few-shot-seg.pdf
 "  target="_blank">.pdf</a>)
 </small>
+-->
 
 
 >  <small>

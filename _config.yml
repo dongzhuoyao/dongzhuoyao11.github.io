@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "HU Tao"
   avatar           : # path of avatar image, e.g. "/assets/images/avatar.jpg"
-  bio              : "Peking University"
-  location         : "Beijing"
-  email            :  "taohu@pku.edu.cn"
+  bio              : #"Peking University"
+  location         : #"Beijing"
+  email            :  "taohu620@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
