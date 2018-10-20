@@ -61,7 +61,6 @@ permalink: /
     (<a href="/note/few-shot-seg.pdf
 "  target="_blank">.pdf</a>)
 </small>
--->
 
 
 >  <small>
@@ -79,6 +78,9 @@ permalink: /
     A Overview About Image Segmentation<br>
     (<a href="/note/overview_over_image_segmentation_report.pdf"  target="_blank">Technical Report</a>)
 </small>
+
+-->
+
 
 
 
