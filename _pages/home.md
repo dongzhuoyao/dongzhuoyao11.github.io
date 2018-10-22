@@ -42,7 +42,7 @@ permalink: /
 
 >  <small>
     Dense In Dense: Training Segmentation from Scratch, ACCV2018<br>
-    (<a href="/note/scratch-eccv18.pdf"  target="_blank">.pdf</a>)
+    (<a href="/note/accv2018-scratch.pdf"  target="_blank">.pdf</a>)
 </small>
 
 >  <small>
