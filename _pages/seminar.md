@@ -66,10 +66,10 @@ header:
 | CVPR19 |  November 16, 2018 [11:59 p.m. Pacific Standard Time]| 	February 1, 2019 [Pacific Standard Time] | March 2, 2019 [Pacific Standard Time]| June 16-21,2019 | Long Beach, CA|
 | ICME19 |  December 03, 2018|  February 25, 2019| March 11, 2019 | July 8-12, 2019 | Shanghai|
 
+<!--
 ## Journal
 
-IJCV, IUCV,
-
+IJCV, CVIU
 
 ## Workshop
 
@@ -90,5 +90,7 @@ IJCV, IUCV,
 
 <div class="thetimenow-embeddable-clock" data-type="clock" data-font-color="#000000" data-border-color="#000000" data-background-color="#ffffff" data-font-size="60" > <a href="http://www.thetimenow.com/" rel="nofollow" target="_blank">© The Time Now</a> </div> 
 <script type="text/javascript" src="http://www.thetimenow.com/ttn-embed.min.js"></script>
+
+-->
 
 
