@@ -41,6 +41,11 @@ permalink: /
 
 
 >  <small>
+    Attention-based Multi-Context Guiding for  Few-Shot Semantic Segmentation, AAAI 2019<br>
+    (<a href=""  target="_blank">.pdf</a>)
+</small>
+
+>  <small>
     Dense In Dense: Training Segmentation from Scratch, ACCV2018<br>
     (<a href="/note/accv2018-scratch.pdf"  target="_blank">.pdf</a>)
 </small>
@@ -54,12 +59,6 @@ permalink: /
 > <small>
     Incremental Segmentation on Private Data without Catastrophic Forgetting, ACCV submission<br>
     (<a href="/note/incremental-seg-privacy.pdf"  target="_blank">.pdf</a>)
-</small>
-
->  <small>
-    Attention-based Multi-Context Guiding for  Few-Shot Semantic Segmentation, AAAI submission<br>
-    (<a href="/note/few-shot-seg.pdf
-"  target="_blank">.pdf</a>)
 </small>
 
 
