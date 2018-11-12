@@ -67,6 +67,7 @@ permalink: /
     <strong>Tao Hu</strong>, Yao Wang, Pengwan Yang<br>
     (<a href="/note/accv2018-scratch.pdf"  target="_blank">.pdf</a>)(<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_ss');">bibtex</a>)
 </small>
+
 <div id="bibtex_ss" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{tao2018ss,
@@ -87,8 +88,25 @@ permalink: /
 >  <small>
     Sobel Heuristic Kernel for aerial semantic segmentation, ICIP2018.<br>
     <strong>Tao Hu</strong>, Yao Wang, Peng Lu, Heng Wang<br>
-    (<a href="/note/edge-icip18.pdf"  target="_blank">.pdf</a>)
+    (<a href="/note/edge-icip18.pdf"  target="_blank">.pdf</a>)(<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_shk');">bibtex</a>)
+
 </small>
+
+<div id="bibtex_shk" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{tao2018shk,
+  title={Sobel Heuristic Kernel for aerial semantic segmentation},
+  author={Tao Hu, Yao Wang, Peng Lu, Heng Wang},
+  booktitle=ICIP,
+  year={2018}
+}
+</code></pre></div></small>
+</div>
+
+
+
+
+
 
 <!--
 > <small>
