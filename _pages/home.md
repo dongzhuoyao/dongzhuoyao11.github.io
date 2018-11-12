@@ -42,16 +42,19 @@ permalink: /
 
 >  <small>
     Attention-based Multi-Context Guiding for  Few-Shot Semantic Segmentation, AAAI 2019<br>
+    <strong>Tao Hu</strong>, Pengwan Yang, Chiliang Zhang, Gang Yu, Yadong Mu, Cees G.M. Snoek<br>
     (<a href=""  target="_blank">.pdf</a>)
 </small>
 
 >  <small>
     Dense In Dense: Training Segmentation from Scratch, ACCV2018<br>
+    <strong>Tao Hu</strong>, Yao Wang, Pengwan Yang<br>
     (<a href="/note/accv2018-scratch.pdf"  target="_blank">.pdf</a>)
 </small>
 
 >  <small>
     Sobel Heuristic Kernel for aerial semantic segmentation, ICIP2018.<br>
+    <strong>Tao Hu</strong>, Yao Wang, Peng Lu, Heng Wang<br>
     (<a href="/note/edge-icip18.pdf"  target="_blank">.pdf</a>)
 </small>
 
