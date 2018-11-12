@@ -65,7 +65,7 @@ permalink: /
 >  <small>
     Dense In Dense: Training Segmentation from Scratch, ACCV2018<br>
     <strong>Tao Hu</strong>, Yao Wang, Pengwan Yang<br>
-    (<a href="/note/accv2018-scratch.pdf"  target="_blank">.pdf</a>)(<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_ss');">bibtex</a>)
+    (<a href="/note/accv2018-scratch.pdf"  target="_blank">.pdf</a>) (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_ss');">bibtex</a>)
 </small>
 
 <div id="bibtex_ss" style="display:none;">
@@ -88,8 +88,7 @@ permalink: /
 >  <small>
     Sobel Heuristic Kernel for aerial semantic segmentation, ICIP2018.<br>
     <strong>Tao Hu</strong>, Yao Wang, Peng Lu, Heng Wang<br>
-    (<a href="/note/edge-icip18.pdf"  target="_blank">.pdf</a>)(<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_shk');">bibtex</a>)
-
+    (<a href="/note/edge-icip18.pdf"  target="_blank">.pdf</a>) (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_shk');">bibtex</a>)
 </small>
 
 <div id="bibtex_shk" style="display:none;">
