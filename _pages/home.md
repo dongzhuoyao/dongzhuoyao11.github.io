@@ -44,13 +44,45 @@ permalink: /
     Attention-based Multi-Context Guiding for  Few-Shot Semantic Segmentation, AAAI 2019<br>
     <strong>Tao Hu</strong>, Pengwan Yang, Chiliang Zhang, Gang Yu, Yadong Mu, Cees G.M. Snoek<br>
     (<a href=""  target="_blank">.pdf</a>)
+    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_fss');">bibtex</a>)
 </small>
+<div id="bibtex_fss" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{tao2018fss,
+  title={Attention-based Multi-Context Guiding for Few-Shot Semantic Segmentation},
+  author={Tao Hu, Pengwan Yang, Chiliang Zhang, Gang Yu, Yadong Mu, Cees G.M. Snoek},
+  booktitle=AAAI,
+  year={2019}
+}
+</code></pre></div></small>
+</div>
+
+
+
+
+
 
 >  <small>
     Dense In Dense: Training Segmentation from Scratch, ACCV2018<br>
     <strong>Tao Hu</strong>, Yao Wang, Pengwan Yang<br>
-    (<a href="/note/accv2018-scratch.pdf"  target="_blank">.pdf</a>)
+    (<a href="/note/accv2018-scratch.pdf"  target="_blank">.pdf</a>)(<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_ss');">bibtex</a>)
 </small>
+<div id="bibtex_ss" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{tao2018ss,
+  title={Dense In Dense: Training Segmentation from Scratch},
+  author={Tao Hu, Yao Wang, Pengwan Yang},
+  booktitle=ACCV,
+  year={2018}
+}
+</code></pre></div></small>
+</div>
+
+
+
+
+
+
 
 >  <small>
     Sobel Heuristic Kernel for aerial semantic segmentation, ICIP2018.<br>
@@ -146,6 +178,15 @@ permalink: /
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=21CLf19jYJsPiUe2kjErKACvUCh1zZ2lnWcRCsPJRa4&cl=ffffff&w=a"></script>
 
+<script type="text/javascript">
+   function toggle_visibility(block_id) {
+       var e = document.getElementById(block_id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+   }
+</script>	
     
 
 
