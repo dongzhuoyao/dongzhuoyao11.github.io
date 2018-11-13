@@ -43,7 +43,8 @@ permalink: /
 >  <small>
     Attention-based Multi-Context Guiding for  Few-Shot Semantic Segmentation, AAAI 2019<br>
     <strong>Tao Hu</strong>, Pengwan Yang, Chiliang Zhang, Gang Yu, Yadong Mu, Cees G.M. Snoek<br>
-    (<a href=""  target="_blank">.pdf</a>)
+    (<a href=""  target="/note/few-shot-seg.pdf">.pdf</a>)
+    (<a href=""  target="/note/few-shot-seg-supplemental.pdf">.supp</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_fss');">bibtex</a>)
 </small>
 <div id="bibtex_fss" style="display:none;">
