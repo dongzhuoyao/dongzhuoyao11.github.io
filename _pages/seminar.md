@@ -52,12 +52,12 @@ header:
 | ECCV | March 14 2018 |May 17 - May 24 2018| July 1 2018 |Sep. 8-14, 2018|Munich, Germany|
 | ACM MM | April,8 2018;open source:May 20;Workshop Papers:July 8 |no-rebuttal  | 1 July 2018 |Oct. 22-26, 2018|Seoul, Korea|
 |ECML18|12 April 2018|  |  |||
-|BMVC18|30 April 2018|  | 02 July 2018 |03 - 06 Sept 2018|Northumbria University|
-|NIPS| May,18  2018 |  |  |||
+|BMVC19|30 April 2019|  |24th June 2019|12th September 2019 |Cardiff|
+|NIPS18| May,18  2018 |  |  |||
 |<a href="http://3dv18.uniud.it/"  target="_blank">3DV</a>| May,25  2018 |  |  ||
-|WACV1|Jun 29, 2018(first round)|  |  August 31,2018|||
-|ICRA|Sep 15, 2018|  | |||
-|WACV2|Sep 21, 2018(second round)|  |  Nov 05,2018|||
+#|WACV1|Jun 29, 2018(first round)|  |  August 31,2018|||
+#|ICRA|Sep 15, 2018|  | |||
+#|WACV2|Sep 21, 2018(second round)|  |  Nov 05,2018|||
 |ACCV18|5 July 2018 | 1-7 September |  21 September|||
 | <a href="https://aaai.org/Conferences/AAAI-19/aaai19call/#"  target="_blank">AAAI19</a> | September 5,(abstract due at Sep,1) 2018 | October 11–14 | November 1 |||
 | ICASSP19 | October 29, 2018|October 29, 2018  |  |February 1, 2019|12 - 17 May, 2019 · Brighton, UK|
