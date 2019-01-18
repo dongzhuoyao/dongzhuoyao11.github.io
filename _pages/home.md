@@ -51,7 +51,7 @@ permalink: /
 <small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{tao2018fss,
   title={Attention-based Multi-Context Guiding for Few-Shot Semantic Segmentation},
-  author={Tao Hu, Pengwan Yang, Chiliang Zhang, Gang Yu, Yadong Mu, Cees G.M. Snoek},
+  author={Tao Hu and Pengwan Yang and Chiliang Zhang and Gang Yu and Yadong Mu and Cees Snoek},
   booktitle=AAAI,
   year={2019}
 }
@@ -73,7 +73,7 @@ permalink: /
 <small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{tao2018ss,
   title={Dense In Dense: Training Segmentation from Scratch},
-  author={Tao Hu, Yao Wang, Pengwan Yang},
+  author={Tao Hu and Yao Wang and Pengwan Yang},
   booktitle=ACCV,
   year={2018}
 }
@@ -96,7 +96,7 @@ permalink: /
 <small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{tao2018shk,
   title={Sobel Heuristic Kernel for aerial semantic segmentation},
-  author={Tao Hu, Yao Wang, Peng Lu, Heng Wang},
+  author={Tao Hu and Yao Wang and Peng Lu and Heng Wang},
   booktitle=ICIP,
   year={2018}
 }
