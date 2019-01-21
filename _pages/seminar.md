@@ -55,9 +55,6 @@ header:
 |BMVC19|30 April 2019|  |24th June 2019|12th September 2019 |Cardiff|
 |NIPS18| May,18  2018 |  |  |||
 |<a href="http://3dv18.uniud.it/"  target="_blank">3DV</a>| May,25  2018 |  |  ||
-#|WACV1|Jun 29, 2018(first round)|  |  August 31,2018|||
-#|ICRA|Sep 15, 2018|  | |||
-#|WACV2|Sep 21, 2018(second round)|  |  Nov 05,2018|||
 |ACCV18|5 July 2018 | 1-7 September |  21 September|||
 | <a href="https://aaai.org/Conferences/AAAI-19/aaai19call/#"  target="_blank">AAAI19</a> | September 5,(abstract due at Sep,1) 2018 | October 11–14 | November 1 |||
 | ICASSP19 | October 29, 2018|October 29, 2018  |  |February 1, 2019|12 - 17 May, 2019 · Brighton, UK|
