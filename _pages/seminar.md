@@ -41,7 +41,6 @@ header:
 
 | Name | Deadline | Rebuttal | Notification | Date | Place |
 | --- | --- | --- | --- | --- | --- |
-| <a href="http://2019.ieeeicip.org/index.php?action=page3&id=1"  target="_blank" >ICIP19</a> | February 7, 2018 |  | April 30, 2019 | Sep 22-25, 2019 |  Taiwan|
 | <a href="http://sigir.org/sigir2019/"  target="_blank" >SIGIR19</a>|January 29, 2018|  |  |July,21-25,2019|Paris|
 |<a href="https://www.ijcai-18.org/important-dates/"  target="_blank" >IJCAI19</a> |February 25, 2019| April 13-18, 2019 | May 9, 2019 |August 10-16, 2019|Macao|
 |<a href="http://www.icmr2018.org/"  target="_blank" >ICMR19</a>|January 21, 2019|  | March 31, 2019 |June 10-13 2019|Ottawa, Canada|
