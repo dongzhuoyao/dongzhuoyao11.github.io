@@ -20,10 +20,7 @@ permalink: /
                   lang="zh-cn">胡涛</span></b></font><br>                 
            
             
-            <font style="font-size: 11pt;" face="Arial">I'm currently a PhD in <a href="http://www.uva.nl/home" target="_blank">University of Amsterdam</a>, supervised by <a href="http://www.ceessnoek.info/" target="_blank">Prof Cees Snoek</a>. I earned my Master’s degree of Computer Science in <a href="http://www.pku.edu.cn" target="_blank">Peking University</a>, and my Bachelor degree from <a href="http://www.whu.edu.cn" target="_blank">Wuhan University</a>. My interests include machine learning, optimization and dense pixel tasks in computer vision,etc. 
-            <!--
-             My cv is <a href="/note/cv.pdf" target="_blank">here</a>. I am looking for a PHD position. If you are interested, please contact me.
-             -->
+            <font style="font-size: 11pt;" face="Arial">I'm currently a PhD in <a href="http://www.uva.nl/home" target="_blank">University of Amsterdam</a>, supervised by <a href="http://www.ceessnoek.info/" target="_blank">Prof Cees Snoek</a>. I earned my Master’s degree of Computer Science in <a href="http://www.pku.edu.cn" target="_blank">Peking University</a>, and my Bachelor degree from <a href="http://www.whu.edu.cn" target="_blank">Wuhan University</a>. My interests include machine learning, optimization and dense pixel tasks in computer vision,etc.  <span style="color:red"> I am currently looking for an internship or visiting opportunity, please contact me if you like.</span>
             </font>
             
             <br><br><br><br><br>
@@ -36,10 +33,10 @@ permalink: /
 <!--
 <span style="color:red">News:</span> 2018 Our team ranks 2th in <a href="https://project.inria.fr/aerialimagelabeling/leaderboard/"  target="_blank" style="color:gray">Inria Aerial Image Labeling Benchmark</a>
 -->
-<div>
-<span style="color:red"><small>  I am currently looking for an internship or visiting opportunity, please contact me if you like.</small> </span></div> 
+
 
 ## news
+
 
 > One paper is submitted to ICCV!
 
