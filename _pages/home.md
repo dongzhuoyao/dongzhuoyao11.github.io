@@ -36,8 +36,8 @@ permalink: /
 <!--
 <span style="color:red">News:</span> 2018 Our team ranks 2th in <a href="https://project.inria.fr/aerialimagelabeling/leaderboard/"  target="_blank" style="color:gray">Inria Aerial Image Labeling Benchmark</a>
 -->
-
-<span style="color:red"><small> I am currently looking for an internship or visiting opportunity, please contact me if you like.</small> </span> 
+<div>
+<span style="color:red"><small>  I am currently looking for an internship or visiting opportunity, please contact me if you like.</small> </span></div> 
 
 ## news
 
