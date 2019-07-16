@@ -32,14 +32,14 @@ permalink: /
 ---
 <!--
 <span style="color:red">News:</span> 2018 Our team ranks 2th in <a href="https://project.inria.fr/aerialimagelabeling/leaderboard/"  target="_blank" style="color:gray">Inria Aerial Image Labeling Benchmark</a>
--->
-
 
 ## news
 
 
 > One paper is submitted to ICCV!
 
+
+-->
 
 ##  paper
 
