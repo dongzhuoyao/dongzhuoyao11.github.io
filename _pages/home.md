@@ -34,14 +34,11 @@ permalink: /
 <span style="color:red">News:</span> 2018 Our team ranks 2th in <a href="https://project.inria.fr/aerialimagelabeling/leaderboard/"  target="_blank" style="color:gray">Inria Aerial Image Labeling Benchmark</a>
 
 ## news
-
-
 > One paper is submitted to ICCV!
-
-
 -->
 
-##  paper
+
+##  Paper
 
 
 >  <small>
@@ -125,6 +122,15 @@ permalink: /
 </small>
 
 
+##  Supervision
+
+>  <small>
+  	2019, Martine Toering(B.A.): Video Classication from scratch
+</small>
+
+>  <small>
+  	2019, Paulien Rouwendaal(M.S.): Full and point supervised learning strategies for table cell detection
+</small>
 
 
 
