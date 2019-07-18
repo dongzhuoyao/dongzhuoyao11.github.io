@@ -124,15 +124,15 @@ permalink: /
 
 ##  Supervision
 
-<span style="color:red"> If you wish to do the Thesis Project with me, feel free to contact me.</span>
+<font style="font-size: 11pt;" face="Arial"><span style="color:red"> If you wish to do the Thesis Project with me, feel free to contact me.</span></font>
 
 
 >  <small>
-  	2019, Martine Toering(B.A.): Video Classication from scratch
+  	Martine Toering(B.A.),2019=>Video Classication from scratch
 </small>
 
 >  <small>
-  	2019, Paulien Rouwendaal(M.S.): Full and point supervised learning strategies for table cell detection
+  	Paulien Rouwendaal(M.S.),2019=>Full and point supervised learning strategies for table cell detection
 </small>
 
 
