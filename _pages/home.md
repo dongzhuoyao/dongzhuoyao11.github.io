@@ -117,7 +117,7 @@ permalink: /
 
 
 >  <small>
-	TA for  <a href="https://uvadlc.github.io/"  target="_blank" >deep learning course(2019)</a>  with    <a href=http://www.egavves.com"  target="_blank" >Efstratios Gavves </a> in University of Amsterdam.
+	TA for  <a href="https://uvadlc.github.io/"  target="_blank" >deep learning course(2019)</a>  with    <a href="http://www.egavves.com"  target="_blank" >Efstratios Gavves </a> in University of Amsterdam.
 </small>
 
 >  <small>
