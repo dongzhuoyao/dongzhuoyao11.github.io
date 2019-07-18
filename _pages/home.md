@@ -108,6 +108,24 @@ permalink: /
 </div>
 
 
+##  Academic Activites
+
+>  <small>
+  	attend 
+    <a href="https://iplab.dmi.unict.it/icvss2019/"  target="_blank">Sicily Summer School 2019</a>.
+</small>
+
+
+>  <small>
+	TA for  <a href="https://uvadlc.github.io/"  target="_blank" >deep learning course(2019)</a>  with    <a href=http://www.egavves.com"  target="_blank" >Efstratios Gavves </a> in University of Amsterdam.
+</small>
+
+>  <small>
+	Reviewer for CVPR 2018, ICCV 2019.
+</small>
+
+
+
 
 
 
