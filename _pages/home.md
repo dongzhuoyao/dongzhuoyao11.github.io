@@ -124,6 +124,9 @@ permalink: /
 
 ##  Supervision
 
+<span style="color:red"> If you wish to do the Thesis Project with me, feel free to contact me.</span>
+
+
 >  <small>
   	2019, Martine Toering(B.A.): Video Classication from scratch
 </small>
