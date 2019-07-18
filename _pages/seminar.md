@@ -55,11 +55,10 @@ header:
 |NIPS18| May,18  2018 |  |  |||
 |<a href="http://3dv18.uniud.it/"  target="_blank">3DV</a>| May,25  2018 |  |  ||
 |ACCV18|5 July 2018 | 1-7 September |  21 September|||
-| <a href="https://aaai.org/Conferences/AAAI-19/aaai19call/#"  target="_blank">AAAI19</a> | September 5,(abstract due at Sep,1) 2018 | October 11–14 | November 1 |||
-| ICASSP19 | October 29, 2018|October 29, 2018  |  |February 1, 2019|12 - 17 May, 2019 · Brighton, UK|
+| AAAI20 | September 5,(abstract due at Sep,1) 2018 | October 10–143| November 10 ||New York|
 |AISTATS|4 October 2018  | November 20, 2018 | December 24, 2018 |16 April 2019|Naha, Okinawa, Japan  |
 |ICLR19||  |  ||  |
-| CVPR19 |  November 16, 2018 [11:59 p.m. Pacific Standard Time]| 	February 1, 2019 [Pacific Standard Time] | March 2, 2019 [Pacific Standard Time]| June 16-21,2019 | Long Beach, CA|
+| CVPR20 |  November 16, 2018 [11:59 p.m. Pacific Standard Time]| 	February 1, 2019 [Pacific Standard Time] | March 2, 2019 [Pacific Standard Time]| June 16-20,2020 |Seattle,Washington|
 | ICME19 |  December 03, 2018|  February 25, 2019| March 11, 2019 | July 8-12, 2019 | Shanghai|
 
 <!--
