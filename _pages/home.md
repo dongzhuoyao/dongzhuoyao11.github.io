@@ -42,7 +42,7 @@ permalink: /
 
 
 >  <small>
-    Attention-based Multi-Context Guiding for  Few-Shot Semantic Segmentation, AAAI 2019<br>
+    Attention-based Multi-Context Guiding for  Few-Shot Semantic Segmentation, Spotlight,  AAAI 2019<br>
     <strong>Tao Hu</strong>, Pengwan Yang, Chiliang Zhang, Gang Yu, Yadong Mu, Cees G.M. Snoek<br>
     (<a href="/note/few-shot-seg.pdf"  target="_blank">.pdf</a>)
     (<a href="/note/few-shot-seg-supplemental.pdf"  target="_blank">.supp</a>)
@@ -114,7 +114,7 @@ permalink: /
 
 
 >  <small>
-	TA for  <a href="https://uvadlc.github.io/"  target="_blank" >deep learning course(2019)</a>  with    <a href="http://www.egavves.com"  target="_blank" >Efstratios Gavves </a> in University of Amsterdam.
+	Teaching Assistant for  <a href="https://uvadlc.github.io/"  target="_blank" >deep learning course(2019)</a>  with    <a href="http://www.egavves.com"  target="_blank" >Efstratios Gavves </a> in University of Amsterdam.
 </small>
 
 >  <small>
