@@ -105,7 +105,7 @@ permalink: /
 </div>
 
 
-##  Academic Activites
+##  Academic Activities
 
 >  <small>
   	attend 
