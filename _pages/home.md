@@ -42,7 +42,7 @@ permalink: /
 
 
 >  <small>
-    Accelerating Convolutional Neural Networks with Dynamic Channel Pruning,  Data Compression Conference 2019<br>
+    Accelerating Convolutional Neural Networks with Dynamic Channel Pruning,  IEEE Data Compression Conference (DCC) 2019<br>
      Chiliang Zhang, <strong>Tao Hu</strong>, Yingda Guan, Zuochang Ye<br>
     (<a href="https://ieeexplore.ieee.org/document/8712710"  target="_blank">.pdf</a>)
     (<a style="cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_dcp');">bibtex</a>)
