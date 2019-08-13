@@ -49,9 +49,9 @@ permalink: /
 
 <div id="bibtex_silco" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
-<code>@article{chi2018,
+<code>@article{silco2019,
   title={SILCO: Show a Few Images, Localize the Common Object},
-  author={Tao Hu and Pascal Mettes and Jia-Hong Huang and Cees  Snoek},
+  author={Tao HU and Pascal Mettes and Jia-Hong Huang and Cees  Snoek},
   booktitle=ICCV,
   year={2019}
 }
@@ -70,7 +70,7 @@ permalink: /
 <small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{chi2018,
   title={Accelerating Convolutional Neural Networks with Dynamic Channel Pruning},
-  author={Chiliang Zhang and Tao Hu and Yingda Guan and Zuochang Ye},
+  author={Chiliang Zhang and Tao HU and Yingda Guan and Zuochang Ye},
   booktitle=Data Compression Conference,
   year={2019}
 }
@@ -93,7 +93,7 @@ permalink: /
 <small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{tao2018fss,
   title={Attention-based Multi-Context Guiding for Few-Shot Semantic Segmentation},
-  author={Tao Hu and Pengwan Yang and Chiliang Zhang and Gang Yu and Yadong Mu and Cees Snoek},
+  author={Tao HU and Pengwan Yang and Chiliang Zhang and Gang Yu and Yadong Mu and Cees Snoek},
   booktitle=AAAI,
   year={2019}
 }
@@ -115,7 +115,7 @@ permalink: /
 <small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{tao2018ss,
   title={Dense In Dense: Training Segmentation from Scratch},
-  author={Tao Hu and Yao Wang and Pengwan Yang},
+  author={Tao HU and Yao Wang and Pengwan Yang},
   booktitle=ACCV,
   year={2018}
 }
