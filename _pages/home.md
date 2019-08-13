@@ -40,6 +40,23 @@ permalink: /
 
 ##  Paper
 
+>  <small>
+    SILCO: Show a Few Images, Localize the Common Object, ICCV 2019<br>
+    <strong>Tao Hu</strong>, Pascal Mettes, Jia-Hong Huang, Cees G. M. Snoek   <br>
+    (<a style="cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_silco');">bibtex</a>)
+</small>
+
+<div id="bibtex_silco" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{chi2018,
+  title={SILCO: Show a Few Images, Localize the Common Object},
+  author={Tao Hu and Pascal Mettes and Jia-Hong Huang and Cees  Snoek},
+  booktitle=ICCV,
+  year={2019}
+}
+</code></pre></div></small>
+</div>
+
 
 >  <small>
     Accelerating Convolutional Neural Networks with Dynamic Channel Pruning,  IEEE Data Compression Conference (DCC) 2019<br>
