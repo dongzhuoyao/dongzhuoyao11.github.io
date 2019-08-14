@@ -20,7 +20,7 @@ permalink: /
                   lang="zh-cn">胡涛</span></b></font><br>                 
            
             
-            <font style="font-size: 11pt;" face="Arial">I'm currently a PhD in <a href="http://www.uva.nl/home" target="_blank">University of Amsterdam</a>, supervised by <a href="http://www.ceessnoek.info/" target="_blank">Prof Cees Snoek</a>. I earned my Master’s degree of Computer Science in <a href="http://www.pku.edu.cn" target="_blank">Peking University</a>, and my Bachelor degree from <a href="http://www.whu.edu.cn" target="_blank">Wuhan University</a>. My interests include machine learning, optimization and dense pixel tasks in computer vision,etc. You can download my PGP public key <a href="pubkey.txt" target="_blank">here</a>. <span style="color:red"> I am currently looking for an internship or visiting opportunity, please contact me if you like.</span> 
+            <font style="font-size: 11pt;" face="Arial">I'm currently a PhD in <a href="http://www.uva.nl/home" target="_blank">University of Amsterdam</a>, supervised by <a href="http://www.ceessnoek.info/" target="_blank">Prof Cees Snoek</a>. I earned my Master’s degree of Computer Science in <a href="http://www.pku.edu.cn" target="_blank">Peking University</a>, and my Bachelor degree from <a href="http://www.whu.edu.cn" target="_blank">Wuhan University</a>. You can download my PGP public key <a href="pubkey.txt" target="_blank">here</a>. <span style="color:red"> I am currently looking for an internship or visiting opportunity, please contact me if you like.</span> 
             </font>
             
             <br><br><br><br><br>
