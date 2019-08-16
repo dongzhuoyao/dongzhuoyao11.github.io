@@ -15,6 +15,117 @@ permalink: /
                   border="0">
 </div>
 
+<style type="text/css">
+body {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.caption {
+	font-size: 34px;
+	font-weight: normal;
+	color: #000;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.caption-1 {
+	font-size: 16px;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.caption-2 {
+	font-size: 16px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	color: #990000;
+}
+.caption-3 {
+	font-size: 16px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	color: #F00;
+}
+
+.caption-4 {
+	font-size: 16px;
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #990000;
+}
+.content {
+	font-size: 16px;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: justify;
+}
+.content a {
+	font-size: 16px;
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #000;
+}
+.content strong a {
+	font-size: 16px;
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #990000;
+}
+.title-small {
+	font-size: 20px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #F90;
+}
+.title-large {
+	font-size: 28px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #000;
+}
+.margin {
+	font-size: 10px;
+	line-height: 10px;
+}
+.margin-small {
+	font-size: 5px;
+	line-height: 5px;
+}
+.margin-large {
+	font-size: 16px;
+	line-height: 16px;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+content a:link {
+	text-decoration: none;
+}
+content a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: underline;
+	color: #000000;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+strong a:active {
+	text-decoration: underline;
+	color: #000000;
+}
+img
+{
+ border-color: black;
+}
+
+
+</style>
+
 
 <div style="text-align:center" style="float:left;width:50%"> 
 <font style="font-size: 11pt;" face="Arial"><b>&nbsp;HU Tao <span
