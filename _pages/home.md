@@ -9,7 +9,7 @@ permalink: /
 ---
 
 
-<div style="margin-top:30px;">
+<div style="margin-top:60px;">
 <div style="float:left;width:28%">
 <img src="/assets/images/avatar.jpg"
                   border="0">
