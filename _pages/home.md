@@ -160,6 +160,7 @@ img
     SILCO: Show a Few Images, Localize the Common Object, ICCV 2019<br>
     <strong>Tao Hu</strong>, Pascal Mettes, Jia-Hong Huang, Cees G. M. Snoek   <br>
     (<a href="http://taohu.me/SILCO/"  target="_blank">project</a>)
+    (<a href="note/19iccv-silco.pdf"  target="_blank">.pdf</a>)
     (<a style="cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_silco');">bibtex</a>)
 </small>
 
