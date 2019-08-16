@@ -8,8 +8,7 @@ classes: wide
 permalink: /
 ---
 
-
-<div style="height=30px;"></div>
+<div style="margin-top:30px;">
 <div>
 <div style="float:left;width:28%">
 <img src="/assets/images/avatar.jpg"
@@ -81,9 +80,6 @@ permalink: /
 }
 </code></pre></div></small>
 </div>
-
-
-
 
 
 >  <small>
@@ -282,6 +278,9 @@ permalink: /
           e.style.display = 'block';
    }
 </script>	
+</div>
+
+
 </div>
     
 
