@@ -11,12 +11,12 @@ permalink: /
 
 
 <div>
-<div style="float:left;width:38%">
+<div style="float:left;width:28%">
 <img src="/assets/images/avatar.jpg"
                   border="0">
 </div>
 
-<div style="text-align:center" style="float:left;width:60%"> 
+<div style="text-align:center" style="float:left;width:70%"> 
 <font style="font-size: 11pt;" face="Arial"><b>&nbsp;HU Tao <span
                   lang="zh-cn">胡涛</span></b></font><br>                 
            
