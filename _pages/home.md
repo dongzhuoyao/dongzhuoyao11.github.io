@@ -16,7 +16,7 @@ permalink: /
                   border="0">
 </div>
 
-<div style="text-align:center" style="float:left;width:70%"> 
+<div style="text-align:center" style="float:left;width:50%"> 
 <font style="font-size: 11pt;" face="Arial"><b>&nbsp;HU Tao <span
                   lang="zh-cn">胡涛</span></b></font><br>                 
            
