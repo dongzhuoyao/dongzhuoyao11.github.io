@@ -39,7 +39,7 @@ permalink: /
 -->
 
 
-##  Paper
+##  Publication
 
 >  <small>
     SILCO: Show a Few Images, Localize the Common Object, ICCV 2019<br>
@@ -266,7 +266,7 @@ permalink: /
     <a href="/note/final_project.pdf"  target="_blank" >final project</a>
 </small>
 -->
-
+<div width="60%" style="text-align:center">
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=21CLf19jYJsPiUe2kjErKACvUCh1zZ2lnWcRCsPJRa4&cl=ffffff&w=a"></script>
 
 <script type="text/javascript">
@@ -278,6 +278,7 @@ permalink: /
           e.style.display = 'block';
    }
 </script>	
+</div>
     
 
 
