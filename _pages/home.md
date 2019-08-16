@@ -8,12 +8,13 @@ classes: wide
 permalink: /
 ---
 
+
 <div style="margin-top:30px;">
-<div>
 <div style="float:left;width:28%">
 <img src="/assets/images/avatar.jpg"
                   border="0">
 </div>
+
 
 <div style="text-align:center" style="float:left;width:50%"> 
 <font style="font-size: 11pt;" face="Arial"><b>&nbsp;HU Tao <span
@@ -280,8 +281,6 @@ permalink: /
 </script>	
 </div>
 
-
-</div>
     
 
 
