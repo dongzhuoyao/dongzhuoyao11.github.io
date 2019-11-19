@@ -9,12 +9,13 @@ permalink: /
 ---
 
 
+<div style="margin-top:60px;">
+<div style="float:left;width:28%">
+<img src="/assets/images/avatar.jpg"
+                  border="0">
+</div>
+
 <style type="text/css">
-
-.page__content p, .page__content li, .page__content dl {
-    font-size: em;
-}
-
 body {
 	margin-top: 30px;
 	margin-bottom: 30px;
@@ -27,7 +28,7 @@ p {
 }
 
 .caption {
-	font-size: 23px;
+	font-size: 34px;
 	font-weight: normal;
 	color: #000;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
@@ -125,42 +126,24 @@ img
 
 </style>
 
-<table border="0" width="100%">
-  <tbody>
 
-    <tr>
-
-    <td width="337"><table>
-			<tbody><tr><td>
-			<a href="/assets/images/avatar.jpg"><img src="/assets/images/avatar.jpg" height="270" alt="Tao Hu's portrait" border="1"></a></td></tr>
-			</tbody></table></td>
-    <td width="15"></td>
-    <td></td>
-    <td><table border="0" width="100%">
-      <tbody><tr height="20">
-        <td colspan="2"></td></tr>
-   <tr height="60">
-        <td>
-           <p class="caption">Tao HU<br><br></p>
-           <p class="content">second year PhD</p>
-			<p class="content">Science Park 904, C3.101</p>
-			<p class="content"><strong>Email</strong>: taohu620 at gmail dot com</p>
-        </td>
-      </tr>
+<div style="text-align:center" style="float:left;width:50%"> 
+<font style="font-size: 11pt;" face="Arial"><b>&nbsp;HU Tao <span
+                  lang="zh-cn">胡涛</span></b></font><br>                 
+           
+            
+            <font style="font-size: 11pt;" face="Arial">I'm currently a PhD in <a href="http://www.uva.nl/home" target="_blank">University of Amsterdam</a>, supervised by <a href="http://www.ceessnoek.info/" target="_blank">Prof Cees Snoek</a>. I earned my Master’s degree of Computer Science in <a href="http://www.pku.edu.cn" target="_blank">Peking University</a>, and my Bachelor degree from <a href="http://www.whu.edu.cn" target="_blank">Wuhan University</a>. You can download my PGP public key <a href="pubkey.txt" target="_blank">here</a>. <span style="color:red"> I am currently looking for an internship or visiting opportunity, please contact me if you like.</span> 
+            </font>
+            
+            <br><br><br><br><br>
 
 
-      <tr height="40">
-        <td>
-          <p class="margin">&nbsp;</p>
-          <p class="content"><strong><a href="pdf/junyan_cv.pdf">CV</a></strong> | <strong><a href="http://scholar.google.com/citations?user=UdpacsMAAAAJ&amp;hl=en">Google Scholar</a></strong> </p>
-        </td>
-      </tr>
-      <tr height="20">
-        <td colspan="2"></td></tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
-                   
+
+ </div>
+</div>
+
+<div style="clear:both"></div>
+ <div class="clearfix"> </div>
  
 
 <br>
